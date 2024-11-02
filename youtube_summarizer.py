@@ -1,9 +1,11 @@
 import csv
 import re
 from youtube_transcript_api import YouTubeTranscriptApi
+from transformers import LEDTokenizer, LEDForConditionalGeneration
 
-
-from g4f.client import Client
+# 모델과 토크나이저 로드
+tokenizer = LEDTokenizer.from_pretrained("allenai/led-base-16384")
+model = LEDForConditionalGeneration.from_pretrained("allenai/led-base-16384")
 
 summary = '''
 지금부터 너는 경로원에서 어르신께 친절하게 설명하는 봉사원이야. 주어진 영상들은 만성질환관리(고혈압, 당뇨병) 환자분들께 전달될 일상생활습관 개선, 운동, 식습관 관련 영상들의 자막 텍스트야. 아래의 조건에 맞게 내용을 요약해줘. 
@@ -22,19 +24,70 @@ summary = '''
 '''
 
 
-def get_summary(full_transcript):
-    # Connect to the ChatGPT API
-    try:
-        client = Client()
-        response = client.chat.completions.create(
-            model="gpt-4-turbo",
-            messages=[{"role": "user", "content": f"{
-                summary}: {full_transcript}"}],
-        )
-        return response.choices[0].message.content
-    except Exception as e:
-        print(f"An error occurred: {e}")
-        return None
+def is_correct_url(url: str) -> bool:
+    # http 또는 https URL인지 확인
+    return url.startswith("http://") or url.startswith("https://")
+
+
+def add_preprocess_script(text: str) -> str:
+    return summary + text
+
+
+def split_text(text, max_length=4096):
+    """
+    텍스트를 지정된 최대 길이로 분할합니다.
+    """
+    sentences = text.split('.')
+    chunks = []
+    current_chunk = []
+    current_length = 0
+
+    for sentence in sentences:
+        sentence_length = len(tokenizer.encode(
+            sentence, add_special_tokens=False))
+        if current_length + sentence_length <= max_length:
+            current_chunk.append(sentence)
+            current_length += sentence_length
+        else:
+            chunks.append('. '.join(current_chunk) + '.')
+            current_chunk = [sentence]
+            current_length = sentence_length
+
+    if current_chunk:
+        chunks.append('. '.join(current_chunk) + '.')
+
+    return chunks
+
+
+def summarize_video_script_by_bigbird_pegasus(script: str, max_length: int = 512) -> str:
+    preprocessed_script = add_preprocess_script(script)
+    chunks = split_text(preprocessed_script)
+    summaries = []
+
+    for chunk in chunks:
+        inputs = tokenizer.encode(
+            chunk, return_tensors="pt", max_length=4096, truncation=True)
+        summary_ids = model.generate(
+            inputs, max_length=max_length, min_length=50, length_penalty=2.0, num_beams=4, early_stopping=True)
+        summary = tokenizer.decode(summary_ids[0], skip_special_tokens=True)
+        summaries.append(summary)
+
+    return ' '.join(summaries)
+
+
+# def get_summary(full_transcript):
+#     # Connect to the ChatGPT API
+#     try:
+#         client = Client()
+#         response = client.chat.completions.create(
+#             model="gpt-4-turbo",
+#             messages=[{"role": "user", "content": f"{
+#                 summary}: {full_transcript}"}],
+#         )
+#         return response.choices[0].message.content
+#     except Exception as e:
+#         print(f"An error occurred: {e}")
+#         return None
 
 
 def extract_video_id(url):
@@ -78,6 +131,9 @@ if __name__ == "__main__":
                 if value == "":
                     continue
 
+                if not is_correct_url(value):
+                    continue
+
                 # 비디오 ID 추출
                 video_id = extract_video_id(value)
 
@@ -99,6 +155,13 @@ if __name__ == "__main__":
                 print("Full Transcript: " + full_transcript)
                 row[2] = full_transcript
 
+                # 트랜스크립트 요약
+                summarized_text = summarize_video_script_by_bigbird_pegasus(
+                    full_transcript)
+                print("Summarized Text: " + summarized_text)
+                row[3] = summarized_text
+
+                # 결과 파일에 쓰기
                 writer.writerow(row)
 
     except Exception as e:
