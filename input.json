@@ -1,0 +1,1453 @@
+[
+    {
+        "end_dt": 1597417199,
+        "manager_type_uk": 4,
+        "name": "건강한 남성 자원자를 대상으로 DW4301 반복 경구 투여 시 안전성, 내약성 및 약동학적 특성을 평가하기 위한 용량군 별 무작위 배정, 이중눈가림, 위약대조, 단계적 증량 임상시험",
+        "organization_name": "서울성모병원",
+        "organizations": [
+            {
+                "name": "서울성모병원",
+                "uk": 1
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "DW4301-102",
+        "start_dt": 1582124400,
+        "subject_reg_count": 82,
+        "subject_total_count": 90,
+        "target_subject": "건강한 성인 남성",
+        "uk": 1
+    },
+    {
+        "end_dt": 1760626799,
+        "manager_type_uk": 4,
+        "name": "도즈이즈 시연용",
+        "organization_name": "록스307",
+        "organizations": [
+            {
+                "name": "록스307",
+                "uk": 4
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 2,
+        "serial_num": "DOSE-EASE-001",
+        "start_dt": 1583074800,
+        "subject_reg_count": 30,
+        "subject_total_count": 50,
+        "target_subject": "록스307 임직원 여러분",
+        "uk": 4
+    },
+    {
+        "end_dt": 1609253999,
+        "manager_type_uk": 4,
+        "name": "iOS 앱 검증용 프로젝트",
+        "organization_name": "록스307",
+        "organizations": [
+            {
+                "name": "록스307",
+                "uk": 4
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "APPLE-TEST-000",
+        "start_dt": 1594047600,
+        "subject_reg_count": 8,
+        "subject_total_count": 40,
+        "target_subject": "건강한 성인 남성",
+        "uk": 9
+    },
+    {
+        "end_dt": 1591541999,
+        "manager_type_uk": 4,
+        "name": "건강한 남성 자원자를 대상으로 Candesartan/Amlodipine 16/5 mg 과 Indapamide 2.5 mg 을 병용하여 반복 경구 투여 후 안전성과 약동학 특성을 평가하기 위한 공개, 반복 투여, 2중재군, 단일순서·교차 임상시험",
+        "organization_name": "서울성모병원",
+        "organizations": [
+            {
+                "name": "서울성모병원",
+                "uk": 1
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "SP-CAP-001",
+        "start_dt": 1587308400,
+        "subject_reg_count": 31,
+        "subject_total_count": 38,
+        "target_subject": "건강한 성인 남성",
+        "uk": 10
+    },
+    {
+        "end_dt": 1594738799,
+        "manager_type_uk": 4,
+        "name": "건강한 성인 남성 자원자를 대상으로 KDF1905-R1과 KDF1905-R2를 병용하여 경구 반복 투여 후 안전성과 약동학 특성을 평가하기 위한 공개, 반복 투여, 3중재군, 단일순서·교차 임상시험 ",
+        "organization_name": "서울성모병원",
+        "organizations": [
+            {
+                "name": "서울성모병원",
+                "uk": 1
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "KDF-1905",
+        "start_dt": 1592233200,
+        "subject_reg_count": 31,
+        "subject_total_count": 36,
+        "target_subject": "건강한 성인 남성",
+        "uk": 12
+    },
+    {
+        "end_dt": 1597157999,
+        "manager_type_uk": 4,
+        "name": "건강한 성인 남성 자원자를 대상으로 KDF1901-R1, KDF1901-R2, KDF1901-R3을 병용하여 경구 반복 투여 후 안전성과 약동학 특성을 평가하기 위한 공개, 반복 투여, 단일순서·교차 임상시험",
+        "organization_name": "서울성모병원",
+        "organizations": [
+            {
+                "name": "서울성모병원",
+                "uk": 1
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "CMC-KDF-1901",
+        "start_dt": 1594825200,
+        "subject_reg_count": 31,
+        "subject_total_count": 40,
+        "target_subject": "건강한 성인 남성",
+        "uk": 13
+    },
+    {
+        "end_dt": 1618412399,
+        "manager_type_uk": 4,
+        "name": "도즈이즈 시연용 프로젝트입니다. 짧은 기간에 높은 순응도를 위한 프로젝트니 성실한 투약 부탁드립니다",
+        "organization_name": "록스307",
+        "organizations": [
+            {
+                "name": "록스307",
+                "uk": 4
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 2,
+        "serial_num": "LOKKS-TEST",
+        "start_dt": 1594911600,
+        "subject_reg_count": 12,
+        "subject_total_count": 15,
+        "target_subject": "록스307 임직원 여러분",
+        "uk": 14
+    },
+    {
+        "manager_type_uk": 4,
+        "name": "(고려대학교병원 안암병원) 기저 인슐린(단독 혹은 메트포르민 병합)으로 조절되지 않는 제2형 당뇨병 환자에서 gemigliptin혹은 SGLT2 inhibitor 단독 추가요법과 병합 요법의 효과 및 안전성 비교 연구: 24주, open-label, 다기관, 무작위 대조 시험",
+        "organization_name": "고려대학교병원 안암병원",
+        "organizations": [
+            {
+                "name": "고려대학교병원 안암병원",
+                "uk": 12
+            }
+        ],
+        "phase": "4",
+        "project_status_uk": 3,
+        "serial_num": "01_T2DM_BIT",
+        "subject_reg_count": 0,
+        "subject_total_count": 50,
+        "target_subject": "제2형 당뇨병",
+        "uk": 15
+    },
+    {
+        "manager_type_uk": 4,
+        "name": "(고려대학교병원 안산병원) 기저 인슐린(단독 혹은 메트포르민 병합)으로 조절되지 않는 제2형 당뇨병 환자에서 gemigliptin혹은 SGLT2 inhibitor 단독 추가요법과 병합 요법의 효과 및 안전성 비교 연구: 24주, open-label, 다기관, 무작위 대조 시험",
+        "organization_name": "03.고려대학교병원 안산병원",
+        "organizations": [
+            {
+                "name": "03.고려대학교병원 안산병원",
+                "uk": 13
+            }
+        ],
+        "phase": "4",
+        "project_status_uk": 3,
+        "serial_num": "02_T2DM_BIT",
+        "subject_reg_count": 0,
+        "subject_total_count": 50,
+        "target_subject": "제2형 당뇨병",
+        "uk": 16
+    },
+    {
+        "manager_type_uk": 4,
+        "name": "(건국대학교병원) 기저 인슐린(단독 혹은 메트포르민 병합)으로 조절되지 않는 제2형 당뇨병 환자에서 gemigliptin혹은 SGLT2 inhibitor 단독 추가요법과 병합 요법의 효과 및 안전성 비교 연구: 24주, open-label, 다기관, 무작위 대조 시험",
+        "organization_name": "건국대학교병원",
+        "organizations": [
+            {
+                "name": "건국대학교병원",
+                "uk": 14
+            }
+        ],
+        "phase": "4",
+        "project_status_uk": 3,
+        "serial_num": "03_T2DM_BIT",
+        "subject_reg_count": 0,
+        "subject_total_count": 50,
+        "target_subject": "제2형 당뇨병",
+        "uk": 17
+    },
+    {
+        "end_dt": 1626274799,
+        "manager_type_uk": 4,
+        "name": "도즈이즈 테스트 \u0026 시연용 프로젝트입니다\n기저 인슐린(단독 혹은 메트포르민 병합)으로 조절되지 않는 제2형 당뇨병 환자에서 gemigliptin혹은 SGLT2 inhibitor 단독 추가요법과 병합 요법의 효과 및 안전성 비교 연구: 24주, open-label, 다기관, 무작위 대조 시험",
+        "organization_name": "록스307",
+        "organizations": [
+            {
+                "name": "록스307",
+                "uk": 4
+            }
+        ],
+        "phase": "4",
+        "project_status_uk": 1,
+        "serial_num": "TEST_T2DM_BIT",
+        "start_dt": 1597244400,
+        "subject_reg_count": 7,
+        "subject_total_count": 30,
+        "target_subject": "제2형 당뇨병",
+        "uk": 18
+    },
+    {
+        "end_dt": 1606834799,
+        "manager_type_uk": 4,
+        "name": "전북대학교병원 기능성식품임상시험지원센터 테스트를 위한 프로젝트입니다",
+        "organization_name": "전북대학교병원",
+        "organizations": [
+            {
+                "name": "전북대학교병원",
+                "uk": 15
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "JBUH-TEST",
+        "start_dt": 1604934000,
+        "subject_reg_count": 10,
+        "subject_total_count": 10,
+        "target_subject": "건강한 자원자",
+        "uk": 19
+    },
+    {
+        "end_dt": 1620658799,
+        "manager_type_uk": 4,
+        "name": "대두발효물의 장내균총 및 대사성질환 관련지표에 대한 유효성 및 안전성을 평가하기 위한 4주, 무작위배정, 이중눈가림, 평행군 인체적용시험",
+        "organization_name": "전북대학교병원",
+        "organizations": [
+            {
+                "name": "전북대학교병원",
+                "uk": 15
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "CTCF2_2020_MIFI_DJ",
+        "start_dt": 1611500400,
+        "subject_reg_count": 44,
+        "subject_total_count": 45,
+        "target_subject": "",
+        "uk": 20
+    },
+    {
+        "end_dt": 1623855599,
+        "manager_type_uk": 4,
+        "name": "남성에서 CKD-843 투여 후 약동/약력학적 특성과 안전성을 확인하기 위한 무작위배정, 공개, 평행설계 임상시험",
+        "organization_name": "연세의료원 세브란스병원",
+        "organizations": [
+            {
+                "name": "연세의료원 세브란스병원",
+                "uk": 17
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "TEST-A107_01PK2012",
+        "start_dt": 1615129200,
+        "subject_reg_count": 16,
+        "subject_total_count": 40,
+        "target_subject": "건강한 성인 남성 및 탈모가 우려되는 남성(탈모로 진단받은 자 포함)",
+        "uk": 21
+    },
+    {
+        "end_dt": 1631804399,
+        "manager_type_uk": 4,
+        "name": "양지병원 테스트를 위한 프로젝트",
+        "organization_name": "양지병원",
+        "organizations": [
+            {
+                "name": "양지병원",
+                "uk": 18
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "TEST-YANGJI",
+        "start_dt": 1614870000,
+        "subject_reg_count": 10,
+        "subject_total_count": 31,
+        "target_subject": "테스트를 위한 관련 인원",
+        "uk": 22
+    },
+    {
+        "end_dt": 1617980399,
+        "manager_type_uk": 4,
+        "name": "건강한 성인 자원자를 대상으로 ATB-1011 및 ATB-1012 투여 시 안전성 및  약동학 상호작용을 평가하기 위한 2중재군, 공개, 단일 순서,  반복 경구 투여 교차설계 임상시험",
+        "organization_name": "양지병원",
+        "organizations": [
+            {
+                "name": "양지병원",
+                "uk": 18
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "ATB-101-001",
+        "start_dt": 1617116400,
+        "subject_reg_count": 32,
+        "subject_total_count": 38,
+        "target_subject": "",
+        "uk": 24
+    },
+    {
+        "end_dt": 1623509999,
+        "manager_type_uk": 4,
+        "name": "세브란스 병원 테스트 프로젝트",
+        "organization_name": "연세의료원 세브란스병원",
+        "organizations": [
+            {
+                "name": "연세의료원 세브란스병원",
+                "uk": 17
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "TEST-SEVERANCE",
+        "start_dt": 1618153200,
+        "subject_reg_count": 2,
+        "subject_total_count": 20,
+        "target_subject": "세브란스 병원 테스트 프로젝트",
+        "uk": 25
+    },
+    {
+        "end_dt": 1631545199,
+        "manager_type_uk": 4,
+        "name": "남성에서 CKD-843투여 후 약동/약력학적 특성과 안전성을 확인하기 위한 무작위배정, 공개, 평행설계 임상시험",
+        "organization_name": "연세의료원 세브란스병원",
+        "organizations": [
+            {
+                "name": "연세의료원 세브란스병원",
+                "uk": 17
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "A107_01PK2012",
+        "start_dt": 1619708400,
+        "subject_reg_count": 8,
+        "subject_total_count": 8,
+        "target_subject": "",
+        "uk": 26
+    },
+    {
+        "end_dt": 1636988399,
+        "manager_type_uk": 4,
+        "name": "TEST-4-30",
+        "organization_name": "록스307",
+        "organizations": [
+            {
+                "name": "록스307",
+                "uk": 4
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 2,
+        "serial_num": "TEST-4-30",
+        "start_dt": 1619708400,
+        "subject_reg_count": 8,
+        "subject_total_count": 8,
+        "target_subject": "",
+        "uk": 27
+    },
+    {
+        "end_dt": 1635346799,
+        "manager_type_uk": 4,
+        "name": "㈜킴스제약 “키마라정 20 밀리그램(레플루노미드)”과 ㈜사노피-아벤티스코리아 “아라바정 20 밀리그램(레플루노미드)”의 생물학적 동등성 평가를 위한 건강한 시험대상자에서의 공개, 무작위배정, 공복, 단회 경구 투여, 2 군, 2 기, 교차 시험",
+        "organization_name": "센트럴병원",
+        "organizations": [
+            {
+                "name": "센트럴병원",
+                "uk": 21
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "DDS20-077BE",
+        "start_dt": 1626274800,
+        "subject_reg_count": 30,
+        "subject_total_count": 34,
+        "target_subject": "",
+        "uk": 30
+    },
+    {
+        "end_dt": 1653490799,
+        "manager_type_uk": 4,
+        "name": "서울대병원 테스트 프로젝트",
+        "organization_name": "서울대병원",
+        "organizations": [
+            {
+                "name": "서울대병원",
+                "uk": 22
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "TEST-SNU",
+        "start_dt": 1628089200,
+        "subject_reg_count": 9,
+        "subject_total_count": 10,
+        "target_subject": "",
+        "uk": 31
+    },
+    {
+        "end_dt": 1662908399,
+        "manager_type_uk": 4,
+        "name": "전북대학교병원 기능성식품임상시험지원센터 테스트를 위한 프로젝트입니다. (2021/11)",
+        "organization_name": "전북대학교병원",
+        "organizations": [
+            {
+                "name": "전북대학교병원",
+                "uk": 15
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "JBUH-TEST2",
+        "start_dt": 1635087600,
+        "subject_reg_count": 5,
+        "subject_total_count": 45,
+        "target_subject": "건강한 자원자",
+        "uk": 32
+    },
+    {
+        "end_dt": 1640876399,
+        "manager_type_uk": 4,
+        "name": "대두발효물(된장분말)의 장내 균총 및 면역력 증진에 대한 유효성 및 안전성을 평가하기 위한 4 주, 무작위배정, 이중눈가림 인체적용시험",
+        "organization_name": "전북대학교병원",
+        "organizations": [
+            {
+                "name": "전북대학교병원",
+                "uk": 15
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "대두발효물/면역",
+        "start_dt": 1637247600,
+        "subject_reg_count": 45,
+        "subject_total_count": 45,
+        "target_subject": "",
+        "uk": 34
+    },
+    {
+        "end_dt": 1655996399,
+        "manager_type_uk": 4,
+        "name": "건강한 남성 자원자를 대상으로 오적산이 Metformin, Glimepiride 및 Dapagliflozin의 약동학적 특성에 미치는 영향을 탐색하기 위한 공개, 단일순서, 교차 임상시험\t \t",
+        "organization_name": "경희대학교병원",
+        "organizations": [
+            {
+                "name": "경희대학교병원",
+                "uk": 23
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "TEST-HDDI-01",
+        "start_dt": 1636988400,
+        "subject_reg_count": 3,
+        "subject_total_count": 54,
+        "target_subject": "",
+        "uk": 35
+    },
+    {
+        "end_dt": 1639753199,
+        "manager_type_uk": 4,
+        "name": "DoseEase RnD 성능 확인을 위한 프로젝트 입니다",
+        "organization_name": "록스307",
+        "organizations": [
+            {
+                "name": "록스307",
+                "uk": 4
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "DoseEaseRnD-01",
+        "start_dt": 1638802800,
+        "subject_reg_count": 20,
+        "subject_total_count": 20,
+        "target_subject": "Validation",
+        "uk": 36
+    },
+    {
+        "end_dt": 1671375599,
+        "manager_type_uk": 4,
+        "name": "건강한남성자원자를대상으로오적산이Metformin,Glimepiride및Dapagliflozin의약동학적특성에미치는영향을탐색하기위한공개, 단일순서교차임상시",
+        "organization_name": "경희대학교병원",
+        "organizations": [
+            {
+                "name": "경희대학교병원",
+                "uk": 23
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "KH-HDDI-01-PART3",
+        "start_dt": 1639062000,
+        "subject_reg_count": 14,
+        "subject_total_count": 18,
+        "target_subject": "",
+        "uk": 37
+    },
+    {
+        "end_dt": 1671289199,
+        "manager_type_uk": 4,
+        "name": "건강한 남성 자원자를 대상으로 오적산이 Metformin, Glimepiride 및 Dapagliflozin의 약동학적 특성에 미치는 영향을 탐색하기 위한 공개, 단일순서, 교차 임상시험",
+        "organization_name": "경희대학교병원",
+        "organizations": [
+            {
+                "name": "경희대학교병원",
+                "uk": 23
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "KH-HDDI-01-PART1",
+        "start_dt": 1639148400,
+        "subject_reg_count": 15,
+        "subject_total_count": 18,
+        "target_subject": "",
+        "uk": 38
+    },
+    {
+        "end_dt": 1639925999,
+        "manager_type_uk": 4,
+        "name": " DoseEase RnD 성능 확인을 위한 프로젝트 입니다",
+        "organization_name": "록스307",
+        "organizations": [
+            {
+                "name": "록스307",
+                "uk": 4
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "DoseEaseRnD-02",
+        "start_dt": 1639062000,
+        "subject_reg_count": 20,
+        "subject_total_count": 20,
+        "target_subject": "Validation",
+        "uk": 40
+    },
+    {
+        "end_dt": 1710687599,
+        "manager_type_uk": 4,
+        "name": "건강한 성인 남성 자원자를 대상으로 DDI01-R1, DDI01-R2, DDI01-R3을 병용하여 경구 반복 투여 후 안전성과 약동학 특성을 평가하기 위한 공개, 반복투여, 단일순서, 교차 임상시험",
+        "organization_name": "애플",
+        "organizations": [
+            {
+                "name": "애플",
+                "uk": 3
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "CRS-DDI-01",
+        "start_dt": 1653404400,
+        "subject_reg_count": 7,
+        "subject_total_count": 32,
+        "target_subject": "애플 검수자",
+        "uk": 41
+    },
+    {
+        "end_dt": 1666105199,
+        "manager_type_uk": 4,
+        "name": "건강한 성인 남성을 대상으로 D565와 D930의 병용투여 시의 약물상호작용 및 안전성·내약성을 평가하기 위한 무작위배정, 공개, 2기, 평행군, 반복투여 제 1상 임상시험",
+        "organization_name": "서울대병원",
+        "organizations": [
+            {
+                "name": "서울대병원",
+                "uk": 22
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "A71_05DDI2114",
+        "start_dt": 1647442800,
+        "subject_reg_count": 28,
+        "subject_total_count": 32,
+        "target_subject": "건강한 성인 남성",
+        "uk": 44
+    },
+    {
+        "manager_type_uk": 4,
+        "name": "(고려대학교병원 안암병원) 기저 인슐린(단독 혹은 메트포르민 병합)으로 조절되지 않는 제2형 당뇨병 환자에서 gemigliptin혹은 SGLT2 inhibitor 단독 추가요법과 병합 요법의 효과 및 안전성 비교 연구: 24주, open-label, 다기관, 무작위 대조 시험",
+        "organization_name": "고려대학교병원 안암병원",
+        "organizations": [
+            {
+                "name": "고려대학교병원 안암병원",
+                "uk": 12
+            }
+        ],
+        "phase": "4",
+        "project_status_uk": 3,
+        "serial_num": "T2DM_BIT_01",
+        "subject_reg_count": 0,
+        "subject_total_count": 34,
+        "target_subject": "제2형 당뇨병",
+        "uk": 45
+    },
+    {
+        "manager_type_uk": 4,
+        "name": "(고려대학교병원 안산병원) 기저 인슐린(단독 혹은 메트포르민 병합)으로 조절되지 않는 제2형 당뇨병 환자에서 gemigliptin혹은 SGLT2 inhibitor 단독 추가요법과 병합 요법의 효과 및 안전성 비교 연구: 24주, open-label, 다기관, 무작위 대조 시험",
+        "organization_name": "03.고려대학교병원 안산병원",
+        "organizations": [
+            {
+                "name": "03.고려대학교병원 안산병원",
+                "uk": 13
+            }
+        ],
+        "phase": "4",
+        "project_status_uk": 3,
+        "serial_num": "T2DM_BIT_02",
+        "subject_reg_count": 0,
+        "subject_total_count": 34,
+        "target_subject": "제2형 당뇨병",
+        "uk": 46
+    },
+    {
+        "manager_type_uk": 4,
+        "name": "(건국대학교병원) 기저 인슐린(단독 혹은 메트포르민 병합)으로 조절되지 않는 제2형 당뇨병 환자에서 gemigliptin혹은 SGLT2 inhibitor 단독 추가요법과 병합 요법의 효과 및 안전성 비교 연구: 24주, open-label, 다기관, 무작위 대조 시험",
+        "organization_name": "건국대학교병원",
+        "organizations": [
+            {
+                "name": "건국대학교병원",
+                "uk": 14
+            }
+        ],
+        "phase": "4",
+        "project_status_uk": 3,
+        "serial_num": "T2DM_BIT_03",
+        "subject_reg_count": 0,
+        "subject_total_count": 34,
+        "target_subject": "제2형 당뇨병",
+        "uk": 47
+    },
+    {
+        "end_dt": 1657292399,
+        "manager_type_uk": 4,
+        "name": "건강한 성인 자원자를 대상으로 A4368의 단회 및 반복 경구 투여 시 최대내약용량 확인과 안전성, 내약성 및 약동학적 특성 평가를 위한 용량군 별 무작위 배정, 이중눈가림, 위약대조, 단계적 증량 임상시험",
+        "organization_name": "서울성모병원",
+        "organizations": [
+            {
+                "name": "서울성모병원",
+                "uk": 1
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "A4368-101",
+        "start_dt": 1652367600,
+        "subject_reg_count": 27,
+        "subject_total_count": 30,
+        "target_subject": "건강한 성인",
+        "uk": 49
+    },
+    {
+        "end_dt": 1672757999,
+        "manager_type_uk": 4,
+        "name": "고추발효물(고추장분말)의 장내균총 및 배변 개선에 대한 유효성 및 안전성을 평가하기 위한 4 주, 무작위배정, 이중눈가림 인체적용시험",
+        "organization_name": "전북대학교병원",
+        "organizations": [
+            {
+                "name": "전북대학교병원",
+                "uk": 15
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "고추발효물",
+        "start_dt": 1658934000,
+        "subject_reg_count": 41,
+        "subject_total_count": 50,
+        "target_subject": "",
+        "uk": 51
+    },
+    {
+        "end_dt": 1657810799,
+        "manager_type_uk": 4,
+        "name": "문진 테스트용 프로젝트",
+        "organization_name": "록스307",
+        "organizations": [
+            {
+                "name": "록스307",
+                "uk": 4
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 4,
+        "serial_num": "TEST-SURVEY",
+        "start_dt": 1654614000,
+        "subject_reg_count": 4,
+        "subject_total_count": 30,
+        "target_subject": "",
+        "uk": 58
+    },
+    {
+        "end_dt": 1690556399,
+        "manager_type_uk": 4,
+        "name": "코로나 임상 2상 내부 테스트 프로젝트",
+        "organization_name": "케어스퀘어",
+        "organizations": [
+            {
+                "name": "케어스퀘어",
+                "uk": 34
+            }
+        ],
+        "phase": "2",
+        "project_status_uk": 1,
+        "serial_num": "TEST-CARESQUARE-1",
+        "start_dt": 1658070000,
+        "subject_reg_count": 56,
+        "subject_total_count": 300,
+        "target_subject": "",
+        "uk": 59
+    },
+    {
+        "end_dt": 1682866799,
+        "manager_type_uk": 4,
+        "name": "Test Project For English Version",
+        "organization_name": "CareSquare",
+        "organizations": [
+            {
+                "name": "CareSquare",
+                "uk": 37
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "TEST-CARESQUARE-2",
+        "start_dt": 1660662000,
+        "subject_reg_count": 10,
+        "subject_total_count": 10,
+        "target_subject": "Tester",
+        "uk": 60
+    },
+    {
+        "manager_type_uk": 4,
+        "name": "경증 및 중등증 코로나바이러스감염증-19 환자를 대상으로 CP-COV03의 유효성 및 안전성을 비교 평가하기 위한 무작위배정, 이중눈가림, 위약대조 제 2 상 임상시험\n",
+        "organization_name": "01.(재)베스티안병원",
+        "organizations": [
+            {
+                "name": "01.(재)베스티안병원",
+                "uk": 27
+            }
+        ],
+        "phase": "2",
+        "project_status_uk": 3,
+        "serial_num": "DTC22-IP006",
+        "subject_reg_count": 0,
+        "subject_total_count": 150,
+        "target_subject": "-",
+        "uk": 64
+    },
+    {
+        "end_dt": 1672412399,
+        "manager_type_uk": 4,
+        "name": "경증 및 중등증 코로나바이러스감염증-19 환자를 대상으로 CP-COV03의 유효성 및 안전성을 비교 평가하기 위한 무작위배정, 이중눈가림, 위약대조 제 2 상 임상시험\n",
+        "organization_name": "09.중앙대의료원 교육협력 현대병원",
+        "organizations": [
+            {
+                "name": "09.중앙대의료원 교육협력 현대병원",
+                "uk": 38
+            }
+        ],
+        "phase": "2",
+        "project_status_uk": 1,
+        "serial_num": "DTC22-IP006 (9)",
+        "start_dt": 1668006000,
+        "subject_reg_count": 29,
+        "subject_total_count": 50,
+        "target_subject": "-",
+        "uk": 66
+    },
+    {
+        "end_dt": 1671375599,
+        "manager_type_uk": 4,
+        "name": "경증 및 중등증 코로나바이러스감염증-19 환자를 대상으로 CP-COV03의 유효성 및 안전성을 비교 평가하기 위한 무작위배정, 이중눈가림, 위약대조 제 2 상 임상시험\n",
+        "organization_name": "04.세종 충남대학교병원",
+        "organizations": [
+            {
+                "name": "04.세종 충남대학교병원",
+                "uk": 39
+            }
+        ],
+        "phase": "2",
+        "project_status_uk": 1,
+        "serial_num": "DTC22-IP006 (4)",
+        "start_dt": 1667660400,
+        "subject_reg_count": 3,
+        "subject_total_count": 50,
+        "target_subject": "-",
+        "uk": 67
+    },
+    {
+        "end_dt": 1670165999,
+        "manager_type_uk": 4,
+        "name": "경증 및 중등증 코로나바이러스감염증-19 환자를 대상으로 CP-COV03의 유효성 및 안전성을 비교 평가하기 위한 무작위배정, 이중눈가림, 위약대조 제 2 상 임상시험",
+        "organization_name": "07.계명대동산병원",
+        "organizations": [
+            {
+                "name": "07.계명대동산병원",
+                "uk": 40
+            }
+        ],
+        "phase": "2",
+        "project_status_uk": 1,
+        "serial_num": "DTC22-IP006 (7)",
+        "start_dt": 1667142000,
+        "subject_reg_count": 1,
+        "subject_total_count": 50,
+        "target_subject": "-",
+        "uk": 68
+    },
+    {
+        "end_dt": 1666623600,
+        "manager_type_uk": 4,
+        "name": "건강한 남성 자원자를 대상으로 오적산이 Metformin, Glimepiride 및 Dapagliflozin의 약동학적 특성에 미치는 영향을 탐색하기 위한 공개, 단일순서, 교차 임상시험",
+        "organization_name": "경희대학교병원",
+        "organizations": [
+            {
+                "name": "경희대학교병원",
+                "uk": 23
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "KH-HDDI-01-PART2",
+        "start_dt": 1665586800,
+        "subject_reg_count": 13,
+        "subject_total_count": 18,
+        "target_subject": "",
+        "uk": 69
+    },
+    {
+        "end_dt": 1671893999,
+        "manager_type_uk": 4,
+        "name": "경증 및 중등증 코로나바이러스감염증-19 환자를 대상으로 CP-COV03의 유효성 및 안전성을 비교 평가하기 위한 무작위배정, 이중눈가림, 위약대조 제 2 상 임상시험",
+        "organization_name": "11.칠곡 경북대병원",
+        "organizations": [
+            {
+                "name": "11.칠곡 경북대병원",
+                "uk": 41
+            }
+        ],
+        "phase": "2",
+        "project_status_uk": 1,
+        "serial_num": "DTC22-IP006 (11)",
+        "start_dt": 1666191600,
+        "subject_reg_count": 14,
+        "subject_total_count": 50,
+        "target_subject": "-",
+        "uk": 70
+    },
+    {
+        "end_dt": 1694962799,
+        "manager_type_uk": 4,
+        "name": "성인 남성에서 CKD-843 A 투여 후 약동학 및 약력학적 특성과 안전성을\n살펴보기 위한 무작위배정, 공개, 반복 투여, 평행 설계 임상시험",
+        "organization_name": "연세의료원 세브란스병원",
+        "organizations": [
+            {
+                "name": "연세의료원 세브란스병원",
+                "uk": 17
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "A107_02PK2216",
+        "start_dt": 1668524400,
+        "subject_reg_count": 9,
+        "subject_total_count": 20,
+        "target_subject": "20",
+        "uk": 71
+    },
+    {
+        "manager_type_uk": 4,
+        "name": "경증 및 중등증 코로나바이러스감염증-19 환자를 대상으로 CP-COV03의 유효성 및 안전성을 비교 평가하기 위한 무작위배정, 이중눈가림, 위약대조 제 2 상 임상시험",
+        "organization_name": "03.고려대학교병원 안산병원",
+        "organizations": [
+            {
+                "name": "03.고려대학교병원 안산병원",
+                "uk": 13
+            }
+        ],
+        "phase": "2",
+        "project_status_uk": 3,
+        "serial_num": "DTC22-IP006 (3)",
+        "subject_reg_count": 0,
+        "subject_total_count": 50,
+        "target_subject": "-",
+        "uk": 72
+    },
+    {
+        "end_dt": 1671893999,
+        "manager_type_uk": 4,
+        "name": "경증 및 중등증 코로나바이러스감염증-19 환자를 대상으로 CP-COV03의 유효성 및 안전성을 비교 평가하기 위한 무작위배정, 이중눈가림, 위약대조 제 2 상 임상시험",
+        "organization_name": "06. 경북대병원",
+        "organizations": [
+            {
+                "name": "06. 경북대병원",
+                "uk": 42
+            }
+        ],
+        "phase": "2",
+        "project_status_uk": 1,
+        "serial_num": "DTC22-IP006 (6)",
+        "start_dt": 1668438000,
+        "subject_reg_count": 2,
+        "subject_total_count": 50,
+        "target_subject": "-",
+        "uk": 73
+    },
+    {
+        "end_dt": 1692802799,
+        "manager_type_uk": 4,
+        "name": "TEST",
+        "organization_name": "케어스퀘어",
+        "organizations": [
+            {
+                "name": "케어스퀘어",
+                "uk": 34
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "James_Test_01",
+        "start_dt": 1667228400,
+        "subject_reg_count": 9,
+        "subject_total_count": 10,
+        "target_subject": "30",
+        "uk": 74
+    },
+    {
+        "end_dt": 1709045999,
+        "manager_type_uk": 4,
+        "name": "성인 남성에서 CKD-843 A 투여 후 약동학 및 약력학적 특성과 안전성을\n살펴보기 위한 무작위배정, 공개, 반복 투여, 평행 설계 임상시험",
+        "organization_name": "연세의료원 세브란스병원",
+        "organizations": [
+            {
+                "name": "연세의료원 세브란스병원",
+                "uk": 17
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "A107_02PK2216 (테스트)",
+        "start_dt": 1668438000,
+        "subject_reg_count": 3,
+        "subject_total_count": 20,
+        "target_subject": "20",
+        "uk": 75
+    },
+    {
+        "end_dt": 1694271599,
+        "manager_type_uk": 4,
+        "name": "신체측정 테스트",
+        "organization_name": "케어스퀘어",
+        "organizations": [
+            {
+                "name": "케어스퀘어",
+                "uk": 34
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "Tom Test",
+        "start_dt": 1689001200,
+        "subject_reg_count": 1,
+        "subject_total_count": 20,
+        "target_subject": "30",
+        "uk": 76
+    },
+    {
+        "end_dt": 1716044399,
+        "manager_type_uk": 4,
+        "name": "현재까지 기능을 추가한 프로젝트 입니다.",
+        "organization_name": "CareSquare",
+        "organizations": [
+            {
+                "name": "CareSquare",
+                "uk": 37
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "CaresquareTest221115",
+        "start_dt": 1668351600,
+        "subject_reg_count": 20,
+        "subject_total_count": 20,
+        "target_subject": "30",
+        "uk": 77
+    },
+    {
+        "end_dt": 1679065199,
+        "manager_type_uk": 4,
+        "name": "한미DDI 연구 건_테스트 / 한미DDI 연구 건_테스트",
+        "organization_name": "한미약품",
+        "organizations": [
+            {
+                "name": "한미약품",
+                "uk": 44
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "TEST_HANMI",
+        "start_dt": 1672758000,
+        "subject_reg_count": 8,
+        "subject_total_count": 21,
+        "target_subject": "20",
+        "uk": 78
+    },
+    {
+        "end_dt": 1680879599,
+        "manager_type_uk": 4,
+        "name": "Decentralized Clinical Trial체계구축을위한pilot study",
+        "organization_name": "케어스퀘어",
+        "organizations": [
+            {
+                "name": "케어스퀘어",
+                "uk": 34
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "TEST-CPT2022-02",
+        "start_dt": 1675868400,
+        "subject_reg_count": 3,
+        "subject_total_count": 30,
+        "target_subject": "30",
+        "uk": 80
+    },
+    {
+        "manager_type_uk": 4,
+        "name": "Decentralized Clinical Trial체계구축을위한pilot study",
+        "organization_name": "케어스퀘어",
+        "organizations": [
+            {
+                "name": "케어스퀘어",
+                "uk": 34
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 3,
+        "serial_num": "TEST-CPT2022-02 (2)",
+        "subject_reg_count": 0,
+        "subject_total_count": 30,
+        "target_subject": "30",
+        "uk": 81
+    },
+    {
+        "end_dt": 1684508399,
+        "manager_type_uk": 4,
+        "name": "건강한 성인에서 RLD2301 투여 시와 RLD2007 투여 시 약물상호작용 및 안전성을 평가하기\n위한 공개 반복투여 교차설계 임상시험",
+        "organization_name": "전북대학교병원",
+        "organizations": [
+            {
+                "name": "전북대학교병원",
+                "uk": 15
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "HM-ENSEMBLE-101",
+        "start_dt": 1683558000,
+        "subject_reg_count": 35,
+        "subject_total_count": 40,
+        "target_subject": "40",
+        "uk": 82
+    },
+    {
+        "end_dt": 1716217199,
+        "manager_type_uk": 4,
+        "name": "연구진 테스트용 프로젝트",
+        "organization_name": "케어스퀘어",
+        "organizations": [
+            {
+                "name": "케어스퀘어",
+                "uk": 34
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "provide_test",
+        "start_dt": 1686582000,
+        "subject_reg_count": 15,
+        "subject_total_count": 20,
+        "target_subject": "10",
+        "uk": 83
+    },
+    {
+        "end_dt": 1685717999,
+        "manager_type_uk": 4,
+        "name": "건강한 성인을 대상으로 반하백출천마탕과 황련해독탕이 아스피린의 약동학 및 약력학에 미치는 영향을 평가하기 위한 탐색적 임상시험",
+        "organization_name": "한양대학교병원",
+        "organizations": [
+            {
+                "name": "한양대학교병원",
+                "uk": 45
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "BHA-DDI",
+        "start_dt": 1684162800,
+        "subject_reg_count": 14,
+        "subject_total_count": 14,
+        "target_subject": "14",
+        "uk": 85
+    },
+    {
+        "end_dt": 1689260399,
+        "manager_type_uk": 4,
+        "name": "건강한 성인을 대상으로 반하백출천마탕과 황련해독탕이 에독사반의 약동학 및 약력학에 미치는 영향을 평가하기 위한 임상시험",
+        "organization_name": "고려대 구로 병원",
+        "organizations": [
+            {
+                "name": "고려대 구로 병원",
+                "uk": 46
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "BHE-DDI",
+        "start_dt": 1687878000,
+        "subject_reg_count": 14,
+        "subject_total_count": 14,
+        "target_subject": "14",
+        "uk": 87
+    },
+    {
+        "end_dt": 1732028399,
+        "manager_type_uk": 4,
+        "name": "수면 개선에 미치는 프로바이오틱스 NVP-1704 의\n유효성 및 안전성을 평가하기 위한\n8 주, 무작위배정, 이중눈가림, 위약대조 인체적용시험\n",
+        "organization_name": "분당 서울대병원",
+        "organizations": [
+            {
+                "name": "분당 서울대병원",
+                "uk": 51
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "NVP-1704-2-S",
+        "start_dt": 1695222000,
+        "subject_reg_count": 104,
+        "subject_total_count": 150,
+        "target_subject": "100",
+        "uk": 90
+    },
+    {
+        "end_dt": 1692889199,
+        "manager_type_uk": 4,
+        "name": "건강한 성인을 대상으로 반하백출천마탕과 황련해독탕이 아토르바스타틴의 약동학에 미치는 영향을 평가하기 위한 임상시험",
+        "organization_name": "고려대 구로 병원",
+        "organizations": [
+            {
+                "name": "고려대 구로 병원",
+                "uk": 46
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "BHS-DDI",
+        "start_dt": 1691506800,
+        "subject_reg_count": 14,
+        "subject_total_count": 14,
+        "target_subject": "14",
+        "uk": 92
+    },
+    {
+        "end_dt": 1696085999,
+        "manager_type_uk": 4,
+        "name": "엑소좀 항노화 pre-pilot 임상연구",
+        "organization_name": "N동물병원",
+        "organizations": [
+            {
+                "name": "N동물병원",
+                "uk": 49
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "Pre-pilot-N",
+        "start_dt": 1691938800,
+        "subject_reg_count": 15,
+        "subject_total_count": 20,
+        "target_subject": "15",
+        "uk": 93
+    },
+    {
+        "end_dt": 1696690800,
+        "manager_type_uk": 4,
+        "name": "엑소좀 항노화 pre-pilot 임상연구",
+        "organization_name": "헬릭스 동물병원",
+        "organizations": [
+            {
+                "name": "헬릭스 동물병원",
+                "uk": 50
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "Pre-pilot-S",
+        "start_dt": 1692025200,
+        "subject_reg_count": 8,
+        "subject_total_count": 20,
+        "target_subject": "15",
+        "uk": 94
+    },
+    {
+        "end_dt": 1735916399,
+        "manager_type_uk": 4,
+        "name": "수면개선에 미치는 프로바이오틱스 NVP-1704의 유효성 및 안전성을 평가하기 위한 8주, 무작위배정, 이중눈가림, 위약대조 인체적용시험",
+        "organization_name": "분당 서울대병원",
+        "organizations": [
+            {
+                "name": "분당 서울대병원",
+                "uk": 51
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "NVP-1704-2-R",
+        "start_dt": 1696431600,
+        "subject_reg_count": 95,
+        "subject_total_count": 150,
+        "target_subject": "100",
+        "uk": 95
+    },
+    {
+        "end_dt": 1702479599,
+        "manager_type_uk": 4,
+        "name": "건강한 성인 남성에서 CKD-846 투여 후 약동학적 특성과 안전성을 평가하기 위한\n무작위배정, 공개, 평행 설계 임상시험(Part1)",
+        "organization_name": "연세의료원 세브란스병원",
+        "organizations": [
+            {
+                "name": "연세의료원 세브란스병원",
+                "uk": 17
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "A133_01PK2306",
+        "start_dt": 1699801200,
+        "subject_reg_count": 7,
+        "subject_total_count": 8,
+        "target_subject": "16",
+        "uk": 97
+    },
+    {
+        "manager_type_uk": 4,
+        "name": "우울 증상을 호소하는 환자에서 질환 특성 및 처방되는 치료제에 따른 우울 증상 개선 효능 및 의약품 이상사례를 평가하기 위한 실사용데이터(Real-world data) 기반 전향적, 탐색적 임상연구",
+        "organization_name": "서울성모병원",
+        "organizations": [
+            {
+                "name": "서울성모병원",
+                "uk": 1
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 3,
+        "serial_num": "CPT2023-01",
+        "subject_reg_count": 0,
+        "subject_total_count": 1,
+        "target_subject": "1000",
+        "uk": 98
+    },
+    {
+        "end_dt": 1706799599,
+        "manager_type_uk": 4,
+        "name": "건강한 남성 자원자를 대상으로 보중익기탕 및 평위산이 Metformin, Dapagliflozin 및 Sitagliptin 의 약동학적 특성에 미치는 영향을 탐색하기 위한 공개 , 2 순서 3 기 무작위 배정 교차 임상시험",
+        "organization_name": "경희대학교병원",
+        "organizations": [
+            {
+                "name": "경희대학교병원",
+                "uk": 23
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "KH-HDDI-02 Version 1.2",
+        "start_dt": 1704898800,
+        "subject_reg_count": 16,
+        "subject_total_count": 16,
+        "target_subject": "",
+        "uk": 99
+    },
+    {
+        "manager_type_uk": 4,
+        "name": "우울 증상으로 1차 병원에서 약물을 처방 받은 환자를 대상으로 한 온라인 설문조사",
+        "organization_name": "",
+        "organizations": [],
+        "phase": "1",
+        "project_status_uk": 3,
+        "serial_num": "CPT2024-01-TEST",
+        "subject_reg_count": 0,
+        "subject_total_count": 0,
+        "target_subject": "500",
+        "uk": 101
+    },
+    {
+        "end_dt": 1715871599,
+        "manager_type_uk": 4,
+        "name": "jame가 만드는 임상시험",
+        "organization_name": "케어스퀘어",
+        "organizations": [
+            {
+                "name": "케어스퀘어",
+                "uk": 34
+            }
+        ],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "care-1004",
+        "start_dt": 1714662000,
+        "subject_reg_count": 1,
+        "subject_total_count": 10,
+        "target_subject": "10",
+        "uk": 102
+    },
+    {
+        "end_dt": 1717340399,
+        "manager_type_uk": 4,
+        "name": "james test",
+        "organization_name": "",
+        "organizations": [],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "care-1004-1",
+        "start_dt": 1716130800,
+        "subject_reg_count": 3,
+        "subject_total_count": 10,
+        "target_subject": "10",
+        "uk": 104
+    },
+    {
+        "end_dt": 1719500399,
+        "manager_type_uk": 4,
+        "name": "건강한 성인을 대상으로 보중익기탕, 청상견통탕 및 이진탕이 에독사반의 약동학 및 약력학에 미치는 영향을 평가하기 위한 임상시험",
+        "organization_name": "",
+        "organizations": [],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "BICE-DDI",
+        "start_dt": 1718118000,
+        "subject_reg_count": 30,
+        "subject_total_count": 30,
+        "target_subject": "30",
+        "uk": 106
+    },
+    {
+        "end_dt": 1737817200,
+        "manager_type_uk": 4,
+        "name": "우울 증상으로 1차 병원에서 약물을 처방 받은 환자를 대상으로 하는 최대 3개월 동안의 온라인 설문을 통한 Real-world data 수집",
+        "organization_name": "",
+        "organizations": [],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "CPT2024-01",
+        "start_dt": 1718204400,
+        "subject_reg_count": 46,
+        "subject_total_count": 46,
+        "target_subject": "500",
+        "uk": 107
+    },
+    {
+        "end_dt": 1721919599,
+        "manager_type_uk": 4,
+        "name": "건강한 성인을 대상으로 보중익기탕, 청상견통탕 및 이진탕이 아토르바스타틴의 약동학 및 약력학에 미치는 영향을 평가하기 위한 임상시험",
+        "organization_name": "",
+        "organizations": [],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "BICS-DDI",
+        "start_dt": 1720537200,
+        "subject_reg_count": 30,
+        "subject_total_count": 30,
+        "target_subject": "30",
+        "uk": 108
+    },
+    {
+        "manager_type_uk": 4,
+        "name": "테스트 프로젝트",
+        "organization_name": "",
+        "organizations": [],
+        "phase": "1",
+        "project_status_uk": 3,
+        "serial_num": "test-2024-711",
+        "subject_reg_count": 0,
+        "subject_total_count": 5,
+        "target_subject": "30",
+        "uk": 109
+    },
+    {
+        "end_dt": 1725461999,
+        "manager_type_uk": 4,
+        "name": "건강한 남성 자원자를 대상으로 구미강활탕 및 궁하탕이 Metformin, Dapagliflozin 및 Sitagliptin의 약동학적 특성에 미치는 영향을 탐색하기 위한 공개, 2순서, 3기, 무작위 배정, 교차 임상시험",
+        "organization_name": "",
+        "organizations": [],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "KH-HDDI-03",
+        "start_dt": 1723215600,
+        "subject_reg_count": 16,
+        "subject_total_count": 16,
+        "target_subject": "",
+        "uk": 110
+    },
+    {
+        "end_dt": 1726325999,
+        "manager_type_uk": 4,
+        "name": "경증 및 중등증 코로나바이러스감염증-19 환자를 대상으로 CP-COV03의 유효성 및 안전성을 비교 평가하기 위한 무작위배정, 이중눈가림, 위약대조 제 2 상 임상시험\n",
+        "organization_name": "",
+        "organizations": [],
+        "phase": "2",
+        "project_status_uk": 3,
+        "serial_num": "TEST-DTC22-IP006",
+        "start_dt": 1722610800,
+        "subject_reg_count": 6,
+        "subject_total_count": 150,
+        "target_subject": "",
+        "uk": 111
+    },
+    {
+        "end_dt": 1732719599,
+        "manager_type_uk": 4,
+        "name": "건강한 성인을 대상으로 이진탕과 청상견통탕이 아스피린의 약동학 및 약력학에 미치는 영향을 평가하기 위한 탐색적 임상시험",
+        "organization_name": "",
+        "organizations": [],
+        "phase": "1",
+        "project_status_uk": 1,
+        "serial_num": "ICA-DDI",
+        "start_dt": 1729609200,
+        "subject_reg_count": 14,
+        "subject_total_count": 14,
+        "target_subject": "14",
+        "uk": 113
+    }
+]
