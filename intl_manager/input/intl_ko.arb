@@ -1,0 +1,472 @@
+{
+    "navRecord": "기록",
+    "@navRecord": {
+        "description": "바텀 네비게이션바 몸무게 기록 탭 라벨"
+    },
+    "navCalendar": "캘린더",
+    "@navCalendar": {
+        "description": "바텀 네비게이션바 달력 탭 라벨"
+    },
+    "navStatistics": "통계",
+    "@navStatistics": {
+        "description": "바텀 네비게이션바 통계 탭 라벨"
+    },
+    "navSettings": "설정",
+    "@navSettings": {
+        "description": "바텀 네비게이션바 설정 탭 라벨"
+    },
+    "labelDialogCancel": "취소",
+    "@labelDialogCancel": {
+        "description": "다이얼로그 취소 동작 버튼 라벨"
+    },
+    "labelDialogClose": "닫기",
+    "@labelDialogClose": {
+        "description": "다이얼로그 닫기 동작 버튼 라벨"
+    },
+    "labelDialogConfirm": "확인",
+    "@labelDialogConfirm": {
+        "description": "다이얼로그 확인 동작 버튼 라벨"
+    },
+    "titleDialogNetworkError": "네트워크 에러",
+    "@titleDialogNetworkError": {
+        "description": "네트워크 에러 다이얼로그 타이틀"
+    },
+    "contentDialogNetworkError": "서버에 연결하지 못했어요. 네트워크 연결을 확인하고 다시 시도하세요.",
+    "@contentDialogNetworkError": {
+        "description": "네트워크 에러 다이얼로그 내용"
+    },
+    "buttonNetworkRetry": "다시 시도",
+    "@buttonNetworkRetry": {
+        "description": "네트워크 에러 다이얼로그 재시도 버튼 라벨"
+    },
+    "titleWeightDialogInput": "몸무게 설정",
+    "@titleWeightDialogInput": {
+        "description": "몸무게 설정 다이얼로그 타이틀"
+    },
+    "labelTextAreaHint": "여기에 입력",
+    "@labelTextAreaHint": {
+        "description": "텍스트 입력 힌트"
+    },
+    "labelTextAreaInput": "입력",
+    "@labelTextAreaInput": {
+        "description": "텍스트 입력 라벨"
+    },
+    "labelRecordNoteHint": "노트",
+    "@labelRecordNoteHint": {
+        "description": "몸무게 기록 화면 노트 입력 힌트"
+    },
+    "buttonRecordSaveWeight": "저장",
+    "@buttonRecordSaveWeight": {
+        "description": "몸무게 기록 화면 저장 버튼 라벨"
+    },
+    "buttonRecordRegistHeight": "키 설정",
+    "@buttonRecordRegistHeight": {
+        "description": "키 설정 버튼 라벨"
+    },
+    "toastMessageRecordFailedToLoadWeights": "몸무게를 불러오는데 실패했어요",
+    "@toastMessageRecordFailedToLoadWeights": {
+        "description": "몸무게 불러오기 실패 토스트 메시지"
+    },
+    "toastMessageRecordFailedToRegistWeight": "몸무게를 기록하는데 실패했어요",
+    "@toastMessageRecordFailedToRegistWeight": {
+        "description": "몸무게 기록 실패 토스트 메시지"
+    },
+    "toastMessageRecordFailedToEditWeight": "몸무게를 수정하는데 실패했어요",
+    "@toastMessageRecordFailedToEditWeight": {
+        "description": "몸무게 수정 실패 토스트 메시지"
+    },
+    "toastMessageRecordSuccessToRegistWeight": "몸무게를 성공적으로 기록했어요",
+    "@toastMessageRecordSuccessToRegistWeight": {
+        "description": "몸무게 기록 성공 토스트 메시지"
+    },
+    "toastMessageRecordSuccessToSaveRecord": "몸무게 기록을 저장했어요",
+    "@toastMessageRecordSuccessToSaveRecord": {
+        "description": "몸무게 기록 저장 성공 토스트 메시지"
+    },
+    "toastMessageRecordFailedToSaveRecord": "몸무게 기록 저장에 실패했어요",
+    "@toastMessageRecordFailedToSaveRecord": {
+        "description": "몸무게 기록 저장 실패 토스트 메시지"
+    },
+    "toastMessageRecordSuccessToDeleteRecord": "몸무게 기록을 삭제했어요",
+    "@toastMessageRecordSuccessToDeleteRecord": {
+        "description": "몸무게 기록 삭제 성공 토스트 메시지"
+    },
+    "toastMessageRecordFailedToDeleteRecord": "몸무게 삭제에 실패했어요",
+    "@toastMessageRecordFailedToDeleteRecord": {
+        "description": "몸무게 기록 삭제 실패 토스트 메시지"
+    },
+    "toastMessageRecordEnterCorrectFormat": "형식에 맞게 입력해주세요",
+    "@toastMessageRecordEnterCorrectFormat": {
+        "description": "형식에 맞게 입력해주세요 토스트 메시지"
+    },
+    "toastMessageRecordSuccessToSaveAttachment": "노트를 저장했어요",
+    "@toastMessageRecordSuccessToSaveAttachment": {
+        "description": "노트 저장 성공 토스트 메시지"
+    },
+    "toastMessageRecordFailedToSaveAttachment": "노트 저장에 실패했어요",
+    "@toastMessageRecordFailedToSaveAttachment": {
+        "description": "노트 저장 실패 토스트 메시지"
+    },
+    "toastMessageRecordSuccessToDeleteAttachment": "노트를 삭제했어요",
+    "@toastMessageRecordSuccessToDeleteAttachment": {
+        "description": "노트 삭제 성공 토스트 메시지"
+    },
+    "toastMessageRecordFailedToDeleteAttachment": "노트를 삭제하는데 실패했어요",
+    "@toastMessageRecordFailedToDeleteAttachment": {
+        "description": "노트 삭제 실패 토스트 메시지"
+    },
+    "buttonCalendarHeaderToday": "오늘",
+    "@buttonCalendarHeaderToday": {
+        "description": "달력 헤더 오늘 버튼 라벨"
+    },
+    "contentStatisticsSincePrevious": "지난 기록 대비",
+    "@contentStatisticsSincePrevious": {
+        "description": "지난 기록 대비 30kg 더 많아요, 더 적어요 등 표시"
+    },
+    "contentStatisticsSinceFirst": "최초 기록 대비",
+    "@contentStatisticsSinceFirst": {
+        "description": "최초 기록 대비 30kg 더 많아요, 더 적어요 등 표시"
+    },
+    "labelStatisticsWeightDiff": "체중 변화",
+    "@labelStatisticsWeightDiff": {
+        "description": "통계 화면 체중 변화 라벨"
+    },
+    "labelTabStatisticsDaily": "일일",
+    "@labelTabStatisticsDaily": {
+        "description": "통계 화면 일일 탭 라벨"
+    },
+    "labelTabStatisticsWeekly": "주간",
+    "@labelTabStatisticsWeekly": {
+        "description": "통계 화면 주간 탭 라벨"
+    },
+    "labelTabStatisticsMonthly": "월간",
+    "@labelTabStatisticsMonthly": {
+        "description": "통계 화면 월간 탭 라벨"
+    },
+    "labelSettingHeight": "키 설정",
+    "@labelSettingHeight": {
+        "description": "설정 화면 키 설정 라벨"
+    },
+    "labelSettingResetData": "데이터 초기화",
+    "@labelSettingResetData": {
+        "description": "설정 화면 데이터 초기화 라벨"
+    },
+    "headerSettingHeightDialog": "키 설정",
+    "@headerSettingHeightDialog": {
+        "description": "키 설정 다이얼로그 타이틀"
+    },
+    "headerSettingResetDataDialog": "초기화",
+    "@headerSettingResetDataDialog": {
+        "description": "데이터 초기화 다이얼로그 타이틀"
+    },
+    "contentResetDataDialog": "정말로 모든 데이터를 삭제하실건가요?",
+    "@contentResetDataDialog": {
+        "description": "정말로 모든 데이터를 삭제하실건가요? 다이얼로그 내용"
+    },
+    "labelResetDataDialogReset": "삭제",
+    "@labelResetDataDialogReset": {
+        "description": "삭제 버튼 라벨"
+    },
+    "toastMessageSettingFailedToLoadHeight": "키를 불러오는데 실패했어요",
+    "@toastMessageSettingFailedToLoadHeight": {
+        "description": "키 불러오기 실패 토스트 메시지"
+    },
+    "toastMessageSettingSuccessToSetHeight": "키를 등록했어요",
+    "@toastMessageSettingSuccessToSetHeight": {
+        "description": "키 등록 성공 토스트 메시지"
+    },
+    "toastMessageSettingFailedToSetHeight": "키를 등록하는데 실패했어요",
+    "@toastMessageSettingFailedToSetHeight": {
+        "description": "키 등록 실패 토스트 메시지"
+    },
+    "toastMessageSettingFailedToEditHeight": "키를 수정하는데 실패했어요",
+    "@toastMessageSettingFailedToEditHeight": {
+        "description": "키 수정 실패 토스트 메시지"
+    },
+    "toastMessageSettingSuccessToEditHeight": "키를 수정했어요",
+    "@toastMessageSettingSuccessToEditHeight": {
+        "description": "키 수정 성공 토스트 메시지"
+    },
+    "toastMessageSettingSuccessToResetData": "데이터를 초기화했어요",
+    "@toastMessageSettingSuccessToResetData": {
+        "description": "데이터 초기화 성공 토스트 메시지"
+    },
+    "toastMessageSettingFailedToResetData": "데이터를 초기화하는데 실패했어요",
+    "@toastMessageSettingFailedToResetData": {
+        "description": "데이터 초기화 실패 토스트 메시지"
+    },
+    "toastMessageExitApp": "한 번 더 누르면 앱을 종료합니다",
+    "@toastMessageExitApp": {
+        "description": "앱 종료 토스트 메시지"
+    },
+    "toastMessageGoBack": "한 번 더 누르면 뒤로 갑니다.",
+    "@toastMessageGoBack": {
+        "description": "두번 눌러서 화면 뒤로 가기 안내문구"
+    },
+    "toastMessageFailedToLoadWeights": "몸무게 불러오기 실패",
+    "@toastMessageFailedToLoadWeights": {
+        "description": "몸무게 불러오기 실패 토스트 메시지"
+    },
+    "labelLabAllowAd": "광고 허용",
+    "@labelLabAllowAd": {
+        "description": "광고 활성화 라벨"
+    },
+    "bmi 다이얼로그": "",
+    "bmiMyBMI": "나의 BMI",
+    "@bmiMyBMI": {
+        "description": "BMI 다이얼로그 타이틀"
+    },
+    "bmiClassification": "BMI 계산 기준",
+    "@bmiClassification": {
+        "description": "BMI 등급표 다이얼로그 제목"
+    },
+    "bmiLessThan": "{value} 미만",
+    "@bmiLessThan": {
+        "description": "BMI Classification",
+        "placeholders": {
+            "value": {
+                "type": "String",
+                "example": "18.5"
+            }
+        }
+    },
+    "bmiAbove": "{value} 이상",
+    "@bmiAbove": {
+        "description": "BMI Classification",
+        "placeholders": {
+            "value": {
+                "type": "String",
+                "example": "30.0"
+            }
+        }
+    },
+    "일반적 변수": "",
+    "bmiUnderweight": "저체중",
+    "@bmiUnderweight": {
+        "description": "BMI Classification"
+    },
+    "bmiNormal": "정상 체중",
+    "@bmiNormal": {
+        "description": "BMI Classification"
+    },
+    "bmiPreobesity": "과체중",
+    "@bmiPreobesity": {
+        "description": "BMI Classification"
+    },
+    "bmiObesityClass1": "1단계 비만",
+    "@bmiObesityClass1": {
+        "description": "BMI Classification"
+    },
+    "bmiObesityClass2": "2단계 비만",
+    "@bmiObesityClass2": {
+        "description": "BMI Classification"
+    },
+    "bmiObesityClass3": "3단계 비만",
+    "@bmiObesityClass3": {
+        "description": "BMI Classification"
+    },
+    "동적 텍스트": "",
+    "contentRecordWeightDiff": "{diffType, select, increased {어제보다 +{weightDiff}{unit}} decreased {어제보다 -{weightDiff}{unit}} other {어제와 같음}}",
+    "@contentRecordWeightDiff": {
+        "description": "어제 기록과 비교한 체중 변화",
+        "placeholders": {
+            "diffType": {
+                "type": "String",
+                "example": "increased"
+            },
+            "weightDiff": {
+                "type": "String",
+                "example": "1.2"
+            },
+            "unit": {
+                "type": "String",
+                "example": "kg"
+            }
+        }
+    },
+    "toastMessageValidWeightRange": "설정 가능 범위: {from}{unit} - {to}{unit}",
+    "@toastMessageValidWeightRange": {
+        "description": "무게 설정 가능 범위",
+        "placeholders": {
+            "from": {
+                "type": "String",
+                "example": "1.0"
+            },
+            "to": {
+                "type": "String",
+                "example": "100.0"
+            },
+            "unit": {
+                "type": "String",
+                "example": "kg"
+            }
+        }
+    },
+    "toastMessageMinHeight": "키는 {height} 이상이어야해요",
+    "@toastMessageMinHeight": {
+        "description": "최소 키 설정 가능 범위",
+        "placeholders": {
+            "height": {
+                "type": "String",
+                "example": "1.0cm"
+            }
+        }
+    },
+    "toastMessageMaxHeight": "키는 {height} 이하이어야해요",
+    "@toastMessageMaxHeight": {
+        "description": "최대 키 설정 가능 범위",
+        "placeholders": {
+            "heightText": {
+                "type": "String",
+                "example": "5ft 3in"
+            }
+        }
+    },
+    "후원 기능 업데이트": "",
+    "toastMessageCantOpenLink": "링크를 열 수 없어요",
+    "@toastMessageCantOpenLink": {
+        "description": "링크 열기 실패 토스트 메시지"
+    },
+    "labelSettingDonation": "후원하기",
+    "@labelSettingDonation": {
+        "description": "설정화면 타일 후원하기 화면 이동 타일 라벨"
+    },
+    "titleDonation": "후원하기",
+    "@titleDonation": {
+        "description": "후원하기 페이지 제목",
+        "placeholders": {}
+    },
+    "titleDonatorList": "앱에 도움을 주신 분들",
+    "@titleDonatorList": {
+        "description": "앱에 도움을 주신 분들 페이지 제목",
+        "placeholders": {}
+    },
+    "labelDialogWrite": "작성",
+    "@labelDialogWrite": {
+        "description": "작성 버튼 레이블",
+        "placeholders": {}
+    },
+    "titleDonationAfterDonated": "메시지 작성",
+    "@titleDonationAfterDonated": {
+        "description": "후원 후 메시지 작성 다이얼로그 제목",
+        "placeholders": {}
+    },
+    "contentDonationAfterDonated": "후원해주셔서 감사합니다!\n메시지를 작성하시곘습니까?",
+    "@contentDonationAfterDonated": {
+        "description": "후원 후 메시지 작성 다이얼로그 내용",
+        "placeholders": {}
+    },
+    "labelDonationWriteEmptyName": "이름을 입력해주세요.",
+    "@labelDonationWriteEmptyName": {
+        "description": "이름을 입력해주세요 에러 메시지",
+        "placeholders": {}
+    },
+    "labelDonationWriteInvalidEmail": "이메일 주소가 올바르지 않습니다.",
+    "@labelDonationWriteInvalidEmail": {
+        "description": "이메일 주소가 올바르지 않습니다 에러 메시지",
+        "placeholders": {}
+    },
+    "labelDonationWriteEmptyMessage": "메시지를 입력해주세요.",
+    "@labelDonationWriteEmptyMessage": {
+        "description": "메시지를 입력해주세요 에러 메시지",
+        "placeholders": {}
+    },
+    "labelTimeYears": "{year}년",
+    "@labelTimeYears": {
+        "description": "n년을 나타내는 문자열",
+        "placeholders": {
+            "year": {
+                "type": "String",
+                "example": "1"
+            }
+        }
+    },
+    "labelTimeMonths": "{month}개월",
+    "@labelTimeMonths": {
+        "description": "n개월을 나타내는 문자열",
+        "placeholders": {
+            "month": {
+                "type": "String",
+                "example": "1"
+            }
+        }
+    },
+    "labelTimeDays": "{day}일",
+    "@labelTimeDays": {
+        "description": "n일을 나타내는 문자열",
+        "placeholders": {
+            "day": {
+                "type": "String",
+                "example": "1"
+            }
+        }
+    },
+    "labelTimeHours": "{hour}시간",
+    "@labelTimeHours": {
+        "description": "n시간을 나타내는 문자열",
+        "placeholders": {
+            "hour": {
+                "type": "String",
+                "example": "1"
+            }
+        }
+    },
+    "labelTimeMinutes": "{minute}분",
+    "@labelTimeMinutes": {
+        "description": "n분을 나타내는 문자열",
+        "placeholders": {
+            "minute": {
+                "type": "String",
+                "example": "1"
+            }
+        }
+    },
+    "labelTimeSeconds": "{second}초",
+    "@labelTimeSeconds": {
+        "description": "n초를 나타내는 문자열",
+        "placeholders": {
+            "second": {
+                "type": "String",
+                "example": "1"
+            }
+        }
+    },
+    "labelTimeAgo": "{timeStr} 전",
+    "@labelTimeAgo": {
+        "description": "1분전, 10시간 전 등 시간 지남을 나타내는 문자열",
+        "placeholders": {
+            "timeStr": {
+                "type": "String",
+                "example": "1분, 10시간"
+            }
+        }
+    },
+    "labelDonationDonatorName": "후원자 이름",
+    "@labelDonationDonatorName": {
+        "description": "후원자의 이름 입력 필드 라벨"
+    },
+    "labelDonationDonatorEmail": "이메일",
+    "@labelDonationDonatorEmail": {
+        "description": "후원자의 이메일 입력 필드 라벨"
+    },
+    "labelDonationMessage": "메시지 ",
+    "@labelDonationMessage": {
+        "description": "후원 메시지 입력 필드 라벨"
+    },
+    "labelDonationDonatorCountry": "국가 선택",
+    "@labelDonationDonatorCountry": {
+        "description": "후원자의 국가 선택 라벨"
+    },
+    "labelTitleAdManage": "광고 관리",
+    "@labelTitleAdManage": {
+        "description": "광고 관리 페이지 제목"
+    },
+    "labelAllowAd": "광고 허용",
+    "@labelAllowAd": {
+        "description": "광고 허용 토글 버튼 리스트 제목"
+    },
+    "descriptionAllosAd": "각 버튼을 켜주시면 화면 하단에 배너 광고가 표시되며, 이는 앱 개발에 큰 힘이 됩니다.\n소중한 지원에 감사드립니다.",
+    "@descriptionAllosAd": {
+        "description": "광고 허용에 대한 설명"
+    }
+}
