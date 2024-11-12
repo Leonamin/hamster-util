@@ -1,5 +1,13 @@
 .env
 .venv/
-outputs/
-inputs/
-privates/
+clean_markdown/output
+clean_markdown/input
+
+find_unique/output
+find_unique/input
+
+youtube_summarizer/output
+youtube_summarizer/input
+
+intl_manager/output
+intl_manager/input
