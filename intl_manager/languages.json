@@ -19,5 +19,11 @@
     },
     {
         "ar": "intl_ar.arb"
+    },
+    {
+        "zh-CN": "intl_zh_CN.arb"
+    },
+    {
+        "zh-TW": "intl_zh_TW.arb"
     }
 ]

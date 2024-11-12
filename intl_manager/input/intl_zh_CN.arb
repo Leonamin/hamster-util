@@ -1,57 +1,57 @@
 {
-    "navRecord": "記録",
+    "navRecord": "记录",
     "@navRecord": {
         "description": "바텀 네비게이션바 몸무게 기록 탭 라벨"
     },
-    "navCalendar": "カレンダー",
+    "navCalendar": "日历",
     "@navCalendar": {
         "description": "바텀 네비게이션바 달력 탭 라벨"
     },
-    "navStatistics": "統計",
+    "navStatistics": "统计",
     "@navStatistics": {
         "description": "바텀 네비게이션바 통계 탭 라벨"
     },
-    "navSettings": "設定",
+    "navSettings": "设置",
     "@navSettings": {
         "description": "바텀 네비게이션바 설정 탭 라벨"
     },
-    "labelDialogCancel": "キャンセル",
+    "labelDialogCancel": "取消",
     "@labelDialogCancel": {
         "description": "다이얼로그 취소 동작 버튼 라벨"
     },
-    "labelDialogClose": "閉じる",
+    "labelDialogClose": "关闭",
     "@labelDialogClose": {
         "description": "다이얼로그 닫기 동작 버튼 라벨"
     },
-    "labelDialogConfirm": "確定",
+    "labelDialogConfirm": "确认",
     "@labelDialogConfirm": {
         "description": "다이얼로그 확인 동작 버튼 라벨"
     },
-    "titleDialogNetworkError": "ネットワークエラー",
+    "titleDialogNetworkError": "网络错误",
     "@titleDialogNetworkError": {
         "description": "네트워크 에러 다이얼로그 타이틀"
     },
-    "contentDialogNetworkError": "サーバーに接続できませんでした。ネットワーク接続を確認して再試行してください。",
+    "contentDialogNetworkError": "无法连接到服务器。请检查网络连接并重试。",
     "@contentDialogNetworkError": {
         "description": "네트워크 에러 다이얼로그 내용"
     },
-    "buttonNetworkRetry": "再試行",
+    "buttonNetworkRetry": "重试",
     "@buttonNetworkRetry": {
         "description": "네트워크 에러 다이얼로그 재시도 버튼 라벨"
     },
-    "titleWeightDialogInput": "体重設定",
+    "titleWeightDialogInput": "体重设置",
     "@titleWeightDialogInput": {
         "description": "몸무게 설정 다이얼로그 타이틀"
     },
-    "labelTextAreaHint": "ここに入力",
+    "labelTextAreaHint": "在此输入",
     "@labelTextAreaHint": {
         "description": "텍스트 입력 힌트"
     },
-    "labelTextAreaInput": "入力",
+    "labelTextAreaInput": "输入",
     "@labelTextAreaInput": {
         "description": "텍스트 입력 라벨"
     },
-    "labelRecordNoteHint": "メモ",
+    "labelRecordNoteHint": "备注",
     "@labelRecordNoteHint": {
         "description": "몸무게 기록 화면 노트 입력 힌트"
     },
@@ -59,168 +59,167 @@
     "@buttonRecordSaveWeight": {
         "description": "몸무게 기록 화면 저장 버튼 라벨"
     },
-    "buttonRecordRegistHeight": "身長設定",
+    "buttonRecordRegistHeight": "设置身高",
     "@buttonRecordRegistHeight": {
         "description": "키 설정 버튼 라벨"
     },
-    "toastMessageRecordFailedToLoadWeights": "体重の読み込みに失敗しました",
+    "toastMessageRecordFailedToLoadWeights": "加载体重数据失败",
     "@toastMessageRecordFailedToLoadWeights": {
         "description": "몸무게 불러오기 실패 토스트 메시지"
     },
-    "toastMessageRecordFailedToRegistWeight": "体重の記録に失敗しました",
+    "toastMessageRecordFailedToRegistWeight": "记录体重失败",
     "@toastMessageRecordFailedToRegistWeight": {
         "description": "몸무게 기록 실패 토스트 메시지"
     },
-    "toastMessageRecordFailedToEditWeight": "体重の編集に失敗しました",
+    "toastMessageRecordFailedToEditWeight": "修改体重失败",
     "@toastMessageRecordFailedToEditWeight": {
         "description": "몸무게 수정 실패 토스트 메시지"
     },
-    "toastMessageRecordSuccessToRegistWeight": "体重を記録しました",
+    "toastMessageRecordSuccessToRegistWeight": "成功记录体重",
     "@toastMessageRecordSuccessToRegistWeight": {
         "description": "몸무게 기록 성공 토스트 메시지"
     },
-    "toastMessageRecordSuccessToSaveRecord": "体重記録を保存しました",
+    "toastMessageRecordSuccessToSaveRecord": "已保存体重记录",
     "@toastMessageRecordSuccessToSaveRecord": {
         "description": "몸무게 기록 저장 성공 토스트 메시지"
     },
-    "toastMessageRecordFailedToSaveRecord": "体重記録の保存に失敗しました",
+    "toastMessageRecordFailedToSaveRecord": "保存体重记录失败",
     "@toastMessageRecordFailedToSaveRecord": {
         "description": "몸무게 기록 저장 실패 토스트 메시지"
     },
-    "toastMessageRecordSuccessToDeleteRecord": "体重記録を削除しました",
+    "toastMessageRecordSuccessToDeleteRecord": "已删除体重记录",
     "@toastMessageRecordSuccessToDeleteRecord": {
         "description": "몸무게 기록 삭제 성공 토스트 메시지"
     },
-    "toastMessageRecordFailedToDeleteRecord": "体重記録の削除に失敗しました",
+    "toastMessageRecordFailedToDeleteRecord": "删除体重记录失败",
     "@toastMessageRecordFailedToDeleteRecord": {
         "description": "몸무게 기록 삭제 실패 토스트 메시지"
     },
-    "toastMessageRecordEnterCorrectFormat": "正しい形式で入力してください",
+    "toastMessageRecordEnterCorrectFormat": "请按正确格式输入",
     "@toastMessageRecordEnterCorrectFormat": {
         "description": "형식에 맞게 입력해주세요 토스트 메시지"
     },
-    "toastMessageRecordSuccessToSaveAttachment": "メモを保存しました",
+    "toastMessageRecordSuccessToSaveAttachment": "备注已保存",
     "@toastMessageRecordSuccessToSaveAttachment": {
         "description": "노트 저장 성공 토스트 메시지"
     },
-    "toastMessageRecordFailedToSaveAttachment": "メモの保存に失敗しました",
+    "toastMessageRecordFailedToSaveAttachment": "保存备注失败",
     "@toastMessageRecordFailedToSaveAttachment": {
         "description": "노트 저장 실패 토스트 메시지"
     },
-    "toastMessageRecordSuccessToDeleteAttachment": "メモを削除しました",
+    "toastMessageRecordSuccessToDeleteAttachment": "备注已删除",
     "@toastMessageRecordSuccessToDeleteAttachment": {
         "description": "노트 삭제 성공 토스트 메시지"
     },
-    "toastMessageRecordFailedToDeleteAttachment": "メモの削除に失敗しました",
+    "toastMessageRecordFailedToDeleteAttachment": "删除备注失败",
     "@toastMessageRecordFailedToDeleteAttachment": {
         "description": "노트 삭제 실패 토스트 메시지"
     },
-    "buttonCalendarHeaderToday": "今日",
+    "buttonCalendarHeaderToday": "今天",
     "@buttonCalendarHeaderToday": {
         "description": "달력 헤더 오늘 버튼 라벨"
     },
-    "contentStatisticsSincePrevious": "前回の記録と比較して",
+    "contentStatisticsSincePrevious": "与上次记录相比",
     "@contentStatisticsSincePrevious": {
         "description": "지난 기록 대비 30kg 더 많아요, 더 적어요 등 표시"
     },
-    "contentStatisticsSinceFirst": "初回記録と比較して",
+    "contentStatisticsSinceFirst": "与首次记录相比",
     "@contentStatisticsSinceFirst": {
         "description": "최초 기록 대비 30kg 더 많아요, 더 적어요 등 표시"
     },
-    "labelStatisticsWeightDiff": "体重変化",
+    "labelStatisticsWeightDiff": "体重变化",
     "@labelStatisticsWeightDiff": {
         "description": "통계 화면 체중 변화 라벨"
     },
-    "labelTabStatisticsDaily": "日次",
+    "labelTabStatisticsDaily": "每日",
     "@labelTabStatisticsDaily": {
         "description": "통계 화면 일일 탭 라벨"
     },
-    "labelTabStatisticsWeekly": "週次",
+    "labelTabStatisticsWeekly": "每周",
     "@labelTabStatisticsWeekly": {
         "description": "통계 화면 주간 탭 라벨"
     },
-    "labelTabStatisticsMonthly": "月次",
+    "labelTabStatisticsMonthly": "每月",
     "@labelTabStatisticsMonthly": {
         "description": "통계 화면 월간 탭 라벨"
     },
-    "labelSettingHeight": "身長設定",
+    "labelSettingHeight": "设置身高",
     "@labelSettingHeight": {
         "description": "설정 화면 키 설정 라벨"
     },
-    "labelSettingResetData": "データリセット",
+    "labelSettingResetData": "重置数据",
     "@labelSettingResetData": {
         "description": "설정 화면 데이터 초기화 라벨"
     },
-    "headerSettingHeightDialog": "身長設定",
+    "headerSettingHeightDialog": "设置身高",
     "@headerSettingHeightDialog": {
         "description": "키 설정 다이얼로그 타이틀"
     },
-    "headerSettingResetDataDialog": "リセット",
+    "headerSettingResetDataDialog": "重置",
     "@headerSettingResetDataDialog": {
         "description": "데이터 초기화 다이얼로그 타이틀"
     },
-    "contentResetDataDialog": "本当にすべてのデータを削除しますか？",
+    "contentResetDataDialog": "确定要删除所有数据吗？",
     "@contentResetDataDialog": {
         "description": "정말로 모든 데이터를 삭제하실건가요? 다이얼로그 내용"
     },
-    "labelResetDataDialogReset": "削除",
+    "labelResetDataDialogReset": "删除",
     "@labelResetDataDialogReset": {
         "description": "삭제 버튼 라벨"
     },
-    "toastMessageSettingFailedToLoadHeight": "身長の読み込みに失敗しました",
+    "toastMessageSettingFailedToLoadHeight": "加载身高失败",
     "@toastMessageSettingFailedToLoadHeight": {
         "description": "키 불러오기 실패 토스트 메시지"
     },
-    "toastMessageSettingSuccessToSetHeight": "身長を設定しました",
+    "toastMessageSettingSuccessToSetHeight": "已设置身高",
     "@toastMessageSettingSuccessToSetHeight": {
         "description": "키 등록 성공 토스트 메시지"
     },
-    "toastMessageSettingFailedToSetHeight": "身長の設定に失敗しました",
+    "toastMessageSettingFailedToSetHeight": "设置身高失败",
     "@toastMessageSettingFailedToSetHeight": {
         "description": "키 등록 실패 토스트 메시지"
     },
-    "toastMessageSettingFailedToEditHeight": "身長の編集に失敗しました",
+    "toastMessageSettingFailedToEditHeight": "修改身高失败",
     "@toastMessageSettingFailedToEditHeight": {
         "description": "키 수정 실패 토스트 메시지"
     },
-    "toastMessageSettingSuccessToEditHeight": "身長を編集しました",
+    "toastMessageSettingSuccessToEditHeight": "已修改身高",
     "@toastMessageSettingSuccessToEditHeight": {
         "description": "키 수정 성공 토스트 메시지"
     },
-    "toastMessageSettingSuccessToResetData": "データをリセットしました",
+    "toastMessageSettingSuccessToResetData": "数据已重置",
     "@toastMessageSettingSuccessToResetData": {
         "description": "데이터 초기화 성공 토스트 메시지"
     },
-    "toastMessageSettingFailedToResetData": "データのリセットに失敗しました",
+    "toastMessageSettingFailedToResetData": "数据重置失败",
     "@toastMessageSettingFailedToResetData": {
         "description": "데이터 초기화 실패 토스트 메시지"
     },
-    "toastMessageExitApp": "もう一度押すとアプリを終了します",
+    "toastMessageExitApp": "再按一次退出应用",
     "@toastMessageExitApp": {
         "description": "앱 종료 토스트 메시지"
     },
-    "toastMessageGoBack": "もう一度押すと戻ります。",
+    "toastMessageGoBack": "再按一次返回。",
     "@toastMessageGoBack": {
         "description": "두번 눌러서 화면 뒤로 가기 안내문구"
     },
-    "toastMessageFailedToLoadWeights": "体重の読み込みに失敗しました",
+    "toastMessageFailedToLoadWeights": "加载体重数据失败",
     "@toastMessageFailedToLoadWeights": {
         "description": "몸무게 불러오기 실패 토스트 메시지"
     },
-    "labelLabAllowAd": "広告を許可",
+    "labelLabAllowAd": "允许广告",
     "@labelLabAllowAd": {
-        "description": "広告を有効にするためのラベル"
+        "description": "광고 활성화 라벨"
     },
-    "bmi 다이얼로그": "",
-    "bmiMyBMI": "私のBMI",
+    "bmiMyBMI": "我的BMI",
     "@bmiMyBMI": {
         "description": "BMI 다이얼로그 타이틀"
     },
-    "bmiClassification": "BMI計算基準",
+    "bmiClassification": "BMI计算标准",
     "@bmiClassification": {
         "description": "BMI 등급표 다이얼로그 제목"
     },
-    "bmiLessThan": "{value}未満",
+    "bmiLessThan": "小于 {value}",
     "@bmiLessThan": {
         "description": "BMI Classification",
         "placeholders": {
@@ -230,7 +229,7 @@
             }
         }
     },
-    "bmiAbove": "{value}以上",
+    "bmiAbove": "大于 {value}",
     "@bmiAbove": {
         "description": "BMI Classification",
         "placeholders": {
@@ -240,8 +239,7 @@
             }
         }
     },
-    "일반적 변수": "",
-    "bmiUnderweight": "低体重",
+    "bmiUnderweight": "偏瘦",
     "@bmiUnderweight": {
         "description": "BMI Classification"
     },
@@ -249,24 +247,23 @@
     "@bmiNormal": {
         "description": "BMI Classification"
     },
-    "bmiPreobesity": "前肥満",
+    "bmiPreobesity": "超重",
     "@bmiPreobesity": {
         "description": "BMI Classification"
     },
-    "bmiObesityClass1": "肥満1度",
+    "bmiObesityClass1": "一级肥胖",
     "@bmiObesityClass1": {
         "description": "BMI Classification"
     },
-    "bmiObesityClass2": "肥満2度",
+    "bmiObesityClass2": "二级肥胖",
     "@bmiObesityClass2": {
         "description": "BMI Classification"
     },
-    "bmiObesityClass3": "肥満3度",
+    "bmiObesityClass3": "三级肥胖",
     "@bmiObesityClass3": {
         "description": "BMI Classification"
     },
-    "동적 텍스트": "",
-    "contentRecordWeightDiff": "{diffType, select, increased {昨日より+{weightDiff}{unit}} decreased {昨日より-{weightDiff}{unit}} other {昨日と同じ}}",
+    "contentRecordWeightDiff": "{diffType, select, increased {比昨天增加 +{weightDiff}{unit}} decreased {比昨天减少 -{weightDiff}{unit}} other {与昨天相同}}",
     "@contentRecordWeightDiff": {
         "description": "어제 기록과 비교한 체중 변화",
         "placeholders": {
@@ -284,7 +281,7 @@
             }
         }
     },
-    "toastMessageValidWeightRange": "設定可能範囲: {from}{unit} - {to}{unit}",
+    "toastMessageValidWeightRange": "可设置范围: {from}{unit} - {to}{unit}",
     "@toastMessageValidWeightRange": {
         "description": "무게 설정 가능 범위",
         "placeholders": {
@@ -302,7 +299,7 @@
             }
         }
     },
-    "toastMessageMinHeight": "身長は{height}以上でなければなりません",
+    "toastMessageMinHeight": "身高必须大于 {height}",
     "@toastMessageMinHeight": {
         "description": "최소 키 설정 가능 범위",
         "placeholders": {
@@ -312,61 +309,60 @@
             }
         }
     },
-    "toastMessageMaxHeight": "身長は{height}以下でなければなりません",
+    "toastMessageMaxHeight": "身高必须小于 {height}",
     "@toastMessageMaxHeight": {
         "description": "최대 키 설정 가능 범위",
         "placeholders": {
-            "height": {
+            "heightText": {
                 "type": "String",
                 "example": "5ft 3in"
             }
         }
     },
-    "후원 기능 업데이트": "",
-    "toastMessageCantOpenLink": "リンクを開くことができません。",
+    "toastMessageCantOpenLink": "无法打开链接",
     "@toastMessageCantOpenLink": {
         "description": "링크 열기 실패 토스트 메시지"
     },
-    "labelSettingDonation": "寄付",
+    "labelSettingDonation": "捐赠",
     "@labelSettingDonation": {
         "description": "설정화면 타일 후원하기 화면 이동 타일 라벨"
     },
-    "titleDonation": "寄付する",
+    "titleDonation": "捐赠",
     "@titleDonation": {
         "description": "후원하기 페이지 제목",
         "placeholders": {}
     },
-    "titleDonatorList": "寄付者の皆様",
+    "titleDonatorList": "支持本应用的用户",
     "@titleDonatorList": {
         "description": "앱에 도움을 주신 분들 페이지 제목",
         "placeholders": {}
     },
-    "labelDialogWrite": "作成",
+    "labelDialogWrite": "撰写",
     "@labelDialogWrite": {
         "description": "작성 버튼 레이블",
         "placeholders": {}
     },
-    "titleDonationAfterDonated": "メッセージを作成",
+    "titleDonationAfterDonated": "撰写留言",
     "@titleDonationAfterDonated": {
         "description": "후원 후 메시지 작성 다이얼로그 제목",
         "placeholders": {}
     },
-    "contentDonationAfterDonated": "寄付ありがとうございます！\nメッセージを作成しますか？",
+    "contentDonationAfterDonated": "感谢您的捐赠！\n是否撰写一条留言？",
     "@contentDonationAfterDonated": {
         "description": "후원 후 메시지 작성 다이얼로그 내용",
         "placeholders": {}
     },
-    "labelDonationWriteEmptyName": "名前を入力してください。",
+    "labelDonationWriteEmptyName": "请输入姓名。",
     "@labelDonationWriteEmptyName": {
         "description": "이름을 입력해주세요 에러 메시지",
         "placeholders": {}
     },
-    "labelDonationWriteInvalidEmail": "無効なメールアドレスです。",
+    "labelDonationWriteInvalidEmail": "电子邮箱地址无效。",
     "@labelDonationWriteInvalidEmail": {
         "description": "이메일 주소가 올바르지 않습니다 에러 메시지",
         "placeholders": {}
     },
-    "labelDonationWriteEmptyMessage": "メッセージを入力してください。",
+    "labelDonationWriteEmptyMessage": "请输入留言内容。",
     "@labelDonationWriteEmptyMessage": {
         "description": "메시지를 입력해주세요 에러 메시지",
         "placeholders": {}
@@ -381,7 +377,7 @@
             }
         }
     },
-    "labelTimeMonths": "{month}ヶ月",
+    "labelTimeMonths": "{month}个月",
     "@labelTimeMonths": {
         "description": "n개월을 나타내는 문자열",
         "placeholders": {
@@ -391,7 +387,7 @@
             }
         }
     },
-    "labelTimeDays": "{day}日",
+    "labelTimeDays": "{day}天",
     "@labelTimeDays": {
         "description": "n일을 나타내는 문자열",
         "placeholders": {
@@ -401,7 +397,7 @@
             }
         }
     },
-    "labelTimeHours": "{hour}時間",
+    "labelTimeHours": "{hour}小时",
     "@labelTimeHours": {
         "description": "n시간을 나타내는 문자열",
         "placeholders": {
@@ -411,7 +407,7 @@
             }
         }
     },
-    "labelTimeMinutes": "{minute}分",
+    "labelTimeMinutes": "{minute}分钟",
     "@labelTimeMinutes": {
         "description": "n분을 나타내는 문자열",
         "placeholders": {
@@ -437,35 +433,35 @@
         "placeholders": {
             "timeStr": {
                 "type": "String",
-                "example": "1分, 10時間"
+                "example": "1분, 10시간"
             }
         }
     },
-    "labelDonationDonatorName": "寄付者の名前",
+    "labelDonationDonatorName": "捐赠者姓名",
     "@labelDonationDonatorName": {
         "description": "후원자의 이름 입력 필드 라벨"
     },
-    "labelDonationDonatorEmail": "メール",
+    "labelDonationDonatorEmail": "电子邮箱",
     "@labelDonationDonatorEmail": {
         "description": "후원자의 이메일 입력 필드 라벨"
     },
-    "labelDonationMessage": "メッセージ",
+    "labelDonationMessage": "留言",
     "@labelDonationMessage": {
         "description": "후원 메시지 입력 필드 라벨"
     },
-    "labelDonationDonatorCountry": "国を選択",
+    "labelDonationDonatorCountry": "选择国家",
     "@labelDonationDonatorCountry": {
         "description": "후원자의 국가 선택 라벨"
     },
-    "labelTitleAdManage": "広告管理",
+    "labelTitleAdManage": "广告管理",
     "@labelTitleAdManage": {
         "description": "광고 관리 페이지 제목"
     },
-    "labelAllowAd": "広告を許可",
+    "labelAllowAd": "允许广告",
     "@labelAllowAd": {
         "description": "광고 허용 토글 버튼 리스트 제목"
     },
-    "descriptionAllosAd": "各ボタンをオンにすると、画面の下部にバナー広告が表示され、アプリの開発に大きな助けとなります。\nご協力に心より感謝申し上げます。",
+    "descriptionAllosAd": "启用此选项后，屏幕底部将显示横幅广告，这将对应用程序开发大有帮助。\n感谢您的支持！",
     "@descriptionAllosAd": {
         "description": "광고 허용에 대한 설명"
     }
